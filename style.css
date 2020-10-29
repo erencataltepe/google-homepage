@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.top-menu {
+  padding: 10px;
+}
