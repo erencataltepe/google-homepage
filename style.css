@@ -11,4 +11,18 @@ header {
 
 .top-menu {
   padding: 10px;
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+}
+
+#gmail,
+#gorseller {
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+}
+
+#gmail:hover,
+#gorseller:hover {
+  opacity: 0.85;
+  text-decoration: underline;
 }
