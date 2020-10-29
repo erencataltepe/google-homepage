@@ -26,3 +26,15 @@ header {
   opacity: 0.85;
   text-decoration: underline;
 }
+
+#sign-in-text {
+  color: #fff;
+  cursor: default;
+  text-decoration: none;
+  background: -webkit-linear-gradient(top, #4387fd, #4683ea);
+  border: 1px solid #4285f4;
+  font-weight: bold;
+  outline: none;
+  padding: 0 12px;
+  border-radius: 2px;
+}
